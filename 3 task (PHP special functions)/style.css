@@ -1,0 +1,50 @@
+
+html {
+
+	background-image: url(cal3.jpg) ;
+	background-repeat: no-repeat;
+	background-position:center;
+	background-size: cover; 
+	color: black;
+	font-size: 22px;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+	.col__nav {
+	background-color: #c8dbe4;
+	padding: 8px;
+	margin-top: 7px;
+	width: 100%;
+	color: black;
+	width: 140px;
+	height: 45px;
+	line-height: 45px;
+	border-radius: 45px;
+	margin: 10px 20px;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 22px;
+	text-transform: uppercase;
+	text-align: center;
+	letter-spacing: 3px;
+	font-weight: 600;
+	box-shadow: 0 8px 15px rgba(0,0,0,.1);
+}
+	.col__nav2 {
+	background-color: #ffaa7f;
+	padding: 8px;
+	margin-top: 7px;
+	width: 100%;
+	color: black;
+	width: 140px;
+	height: 45px;
+	line-height: 45px;
+	border-radius: 45px;
+	margin: 10px 20px;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 22px;
+	text-transform: uppercase;
+	text-align: center;
+	letter-spacing: 3px;
+	font-weight: 600;
+	box-shadow: 0 8px 15px rgba(0,0,0,.1);
+}
