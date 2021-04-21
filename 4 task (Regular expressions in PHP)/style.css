@@ -1,0 +1,13 @@
+﻿
+html {
+
+	background-image: url(feedback2.jpg) ;
+	background-repeat: no-repeat;
+	background-position:center;
+	background-size: cover; /* Фоновый цвет и фоновый рисунок*/
+	color: black;
+	font-size: large;
+	font-family:Helvetica;
+
+}
+	
