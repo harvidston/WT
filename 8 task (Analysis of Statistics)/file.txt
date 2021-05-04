@@ -1,0 +1,5 @@
+Windows*1
+Linux*0
+Android*0
+OS X*0
+iOS*0
