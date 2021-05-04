@@ -2,5 +2,5 @@
 Вариант 3: Написать скрипт, отправляющий полученное через форму письмо списку адресатов,
 хранящемуся в БД
 
-![image](https://user-images.githubusercontent.com/81465846/117058101-e5298c80-ad26-11eb-9617-0118789469ff.png)
+<img width="960" alt="open-server-settings" src="https://user-images.githubusercontent.com/81465846/117058251-11dda400-ad27-11eb-910d-fd48b2aa4019.png">
 
