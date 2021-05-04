@@ -1,0 +1,16 @@
+html {
+    background-image: url(Images/clouds.jpg) ;
+    width: 1280px;
+    height: 720px;
+
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover; /* Фоновый цвет и фоновый рисунок*/
+    font-size:14pt;
+    color: aliceblue;
+}
+img {
+    height:300px;
+    width:600px;
+}
+a{font-size:15pt;}
