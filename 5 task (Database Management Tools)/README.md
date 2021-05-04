@@ -5,7 +5,7 @@
 | Program          | Version            | Аdditionally          | Link         |
 | -------------    |:------------------:| :--------------------:|:------------:|
 | Open Server Panel| 5.3.8              | `PHP_7.3` `MySQL-8.0` |[OpenServer - установка](https://www.youtube.com/watch?v=wLiewr5nUiw)|
-| PHPStorm         | 2020.1.1           |   `PHP_7.3`           |[Connection Database MySQL to PHP project](https://www.youtube.com/watch?v=O2m4jEiO8NM)              |
+| PHPStorm         | 2020.1.1           |   `PHP_7.3`           |[Connection MySQL Database to PHP project](https://www.youtube.com/watch?v=O2m4jEiO8NM)              |
 | зебра-строки     | прикольные         |    $1                 |              |
 
 
