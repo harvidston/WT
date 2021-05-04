@@ -1,0 +1,21 @@
+html {
+    background-image: url(Images/fon.jpg) ;
+
+    font-size:14pt;
+
+    width: 1280px;
+    height: 720px;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover; /* Фоновый цвет и фоновый рисунок*/
+    font-size: large;
+
+}
+font{
+    font-size: large;
+}
+img {
+    height:300px;
+    width:600px;
+}
+a{font-size:15pt;}
