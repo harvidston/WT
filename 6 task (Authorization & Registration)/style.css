@@ -1,0 +1,15 @@
+html {
+    background-image: url(Images/clouds.jpg) ;
+    width: 1280px;
+    height: 720px;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover; /* Фоновый цвет и фоновый рисунок*/
+    font-size: large;
+    color: aliceblue;
+}
+.form-signin {
+    max-width: 400px;
+    padding: 15px;
+    margin: 0 auto;
+}
